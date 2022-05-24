@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Homework_2</string>
+    <string name="city_name">City Name</string>
+    <string name="city">City:</string>
+    <string name="choose_city">Choose a City</string>
+    <string name="search_city">Search</string>
+    <string name="wind">Wind</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="temp">Temperature</string>
+    <string name="temp_min">Temperature Min.</string>
+    <string name="temp_max">Temperature Max.</string>
+    <string name="value">Value</string>
+    <string name="clouds">clouds</string>
+    <string name="sun">sun</string>
+    <string-array name="cities">
+        <item>Aveiro</item>
+        <item>Beja</item>
+        <item>Bragança</item>
+        <item>Castelo Branco</item>
+        <item>Coimbra</item>
+        <item>Évora</item>
+        <item>Faro</item>
+        <item>Guarda</item>
+        <item>Leiria</item>
+        <item>Lisboa</item>
+        <item>Portalegre</item>
+        <item>Porto</item>
+        <item>Santarém</item>
+        <item>Setúbal</item>
+        <item>Viana do Castelo</item>
+        <item>Vila Real</item>
+        <item>Viseu</item>
+    </string-array>
+</resources>
